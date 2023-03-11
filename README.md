@@ -1,7 +1,7 @@
 # Quran
 Quran Flutter project
 
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat)
+![App version](https://img.shields.io/badge/App-Version%201.0.0-green) ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat)
 
 ## Main Features
 - Reading verses and translations with mp3 file
