@@ -21,4 +21,7 @@ flutter run
 ```
 
 ## Demo
-<img src="https://user-images.githubusercontent.com/100623985/224493561-e284abb4-55f3-4513-947a-9368fefd9bf1.png" alt="Quran-Demo" width="360" height="600"/>
+
+
+https://user-images.githubusercontent.com/100623985/227996862-22cdb7ee-09ff-4cbc-b459-8020337e3abb.mp4
+
